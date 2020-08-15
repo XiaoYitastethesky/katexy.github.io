@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://katexy.github.io</id>
+    <id>https://xiaoyitastethesky.github.io/katexy.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-08-15T09:16:02.601Z</updated>
+    <updated>2020-08-15T09:38:21.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://katexy.github.io"/>
-    <link rel="self" href="https://katexy.github.io/atom.xml"/>
+    <link rel="alternate" href="https://xiaoyitastethesky.github.io/katexy.github.io/"/>
+    <link rel="self" href="https://xiaoyitastethesky.github.io/katexy.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://katexy.github.io/images/avatar.png</logo>
-    <icon>https://katexy.github.io/favicon.ico</icon>
+    <logo>https://xiaoyitastethesky.github.io/katexy.github.io/images/avatar.png</logo>
+    <icon>https://xiaoyitastethesky.github.io/katexy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[python学习]]></title>
-        <id>https://katexy.github.io/post/python-xue-xi/</id>
-        <link href="https://katexy.github.io/post/python-xue-xi/">
+        <id>https://xiaoyitastethesky.github.io/katexy.github.io/post/python-xue-xi/</id>
+        <link href="https://xiaoyitastethesky.github.io/katexy.github.io/post/python-xue-xi/">
         </link>
         <updated>2020-08-15T08:48:59.000Z</updated>
         <content type="html"><![CDATA[<p>123</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://katexy.github.io/post/hello-gridea/</id>
-        <link href="https://katexy.github.io/post/hello-gridea/">
+        <id>https://xiaoyitastethesky.github.io/katexy.github.io/post/hello-gridea/</id>
+        <link href="https://xiaoyitastethesky.github.io/katexy.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
